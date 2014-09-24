@@ -23,7 +23,7 @@ Run the program in Processing and read the instructions on the first page. When 
 
 During the quiz, a timer bar will run on the bottom of the screen until all questions have been answered. At the end of the quiz, a user’s score is totaled by multiplying the remaining time and the amount of points earned from answering questions correctly.
 
-This project focused on extract information from an XML document and deterring whether user input satisfied a condition or not.
+This project focused on extracting information from an XML document and determining whether user input satisfied a condition or not.
 
 
 Contact Information

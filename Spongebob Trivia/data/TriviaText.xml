@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Questions>
+	<quest id="0" ans="b" img="spongebob1.jpg" >
+	  <words>How did Spongebob get his job at the Krustry Krab?</words>
+	  <opt id="a">By lying to Mr. Krabs.</opt>
+	  <opt id="b">By cooking enough Krabby Patties to feed a hoard of anchovies.</opt>
+	  <opt id="c">By beating up the open-window burglar.</opt>
+	  <opt id="d">By annoying Squidward until Squidward finally agreed to let him
+	   work there.</opt>
+	</quest> 
+	
+	<quest id="1" ans="c" img="spongebob2.jpg"> 
+	  <words>According to Patrick, what constitutes being fancy?</words>
+	  <opt id="a">Wearing a hat.</opt>
+	  <opt id="b">Eating Krabby Patties at 3am.</opt>
+	  <opt id="c">Holding your pinky up really high.</opt>
+	  <opt id="d">Owning a computer as well as a keyboard.</opt>
+	</quest> 
+	
+	<quest id="2" ans="a" img="spongebob3.jpg">
+	  <words>Who gets stuck in Rock Bottom, and how does that character get home?</words>
+	  <opt id="a">Spongebob, by using his glove balloon to float back to Bikini Bottom.</opt>
+	  <opt id="b">Sandy, by using a combination of her squirrel karate skills to climb the
+	   vertical impasse.
+	   
+	   </opt>
+	  <opt id="c">Patrick, by asking a stranger if he could take his hat, and the stranger
+	   giving him a magic hat.
+	   
+	   </opt>
+	  <opt id="d">Squidward, by yelling at enough people so that the entire city
+	   banished him.
+	   
+	   </opt>
+	</quest> 
+	
+	<quest id="3" ans="c" img="spongebob4.jpg">
+	  <words>Who wins the epic snow ball fight between Spongebob, Patrick, and Squidward?</words>
+	  <opt id="a">Patrick, who didn't know even know they were having a snow ball fight.</opt>
+	  <opt id="b">Spongebob, whose fortress was impenetrable from the start.</opt>
+	  <opt id="c">Squidward, who chases away Spongebob and Patrick by obsessing
+	   over winning, but also going crazy in the process.
+	   </opt>
+	  <opt id="d">No one, because the snow melts before they can finish.</opt>
+	</quest> 
+	
+	<quest id="4" ans="d" img="spongebob5.jpg">
+	  <words>What does the sign that Mr. Krabs recycles for Pearl's birthday party say?</words>
+	  <opt id="a">Happy Birthday Pale!</opt>
+	  <opt id="b">It's Your Special Day, Pear!</opt>
+	  <opt id="c">Happy Leif Ericson Day!</opt>
+	  <opt id="d">It's a Boy! (with Boy crossed out and Girl written under it)</opt>
+	</quest>
+	
+	<quest id="5" ans="b" img="spongebob6.jpg">
+	  <words>Where does DoodleBob come from?</words>
+	  <opt id="a">A piece of paper.</opt>
+	  <opt id="b">He was drawn with a magic pencil.</opt>
+	  <opt id="c">He is SpongeBob's second cousin.</opt>
+	  <opt id="d">He is SpongeBob's step-brother.</opt>
+	</quest>
+	
+	<quest id="6" ans="a" img="spongebob7.jpg">
+	  <words>Why does Gary run away?</words>
+	  <opt id="a">He isn't fed for a while because SpongeBob is obsessed with beating
+	   the Dirty Bubble Paddleball challenge.
+	   </opt>
+	  <opt id="b">SpongeBob makes him participate in the snail olympics.</opt>
+	  <opt id="c">SpongeBob makes him participate in multiple snail pageants.</opt>
+	  <opt id="d">He wants to find a new owner who shares his sense of humor.</opt>
+	</quest>
+	
+	<quest id="7" ans="d" img="spongebob8.jpg">
+	  <words>How does Sandy get SpongeBob fired from the Krustry Krab?</words>
+	  <opt id="a">She tells Mr. Krabs that SpongeBob shouldn't be trusted with
+	   the responsibility of a job.
+	   </opt>
+ 	  <opt id="b">She tries to help SpongeBob make Krabby Patties and blows up the grill.</opt>
+	  <opt id="c">She is hypnotized by Plankton and ordered to sabotage SpongeBob's
+	   cooked food.
+	   </opt>
+	  <opt id="d">She challenges SpongeBob to a karate match and Mr. Krabs spots them.</opt>
+	</quest>
+	
+	<quest id="8" ans="c" img="spongebob9.jpg"> 
+	  <words>Why must the Chum Bucket and the Krusty Krab both close in one episode?</words>
+	  <opt id="a">They are so competitive with one another that their customers decide
+	   to find another eatery.
+	   </opt>
+	  <opt id="b">SpongeBob and Patrick cause a lot of damage to both restaurants.</opt>
+	  <opt id="c">They both start cooking grease and serving it to customers.</opt>
+	  <opt id="d">Both have been reported for making their customers obese and are
+	   shut down unless they decide become more healthy.
+	   </opt>
+	</quest>
+	
+	<quest id="9" ans="a" img="spongebob10.jpg"> 
+	  <words>What direction does Patrick tell Mr. Krabs they need to follow in order to find the
+	  Flying Dutchman's treasure, and what direction were they supposed to follow?
+	  </words>
+	  <opt id="a">Supposed to follow east, but went "weast" instead.</opt>
+	  <opt id="b">Supposed to follow south, but went north instead.</opt>
+	  <opt id="c">Supposed to follow west, but went "swest" instead.</opt>
+	  <opt id="d">Supposed to follow north, but went "weast" instead.</opt>
+	</quest>
+	
+	<quest id="10" ans="d" img="spongebob11.png"> 
+	  <words>How does Squidward defend himself when he says he doesn't like Krabby Patties and
+	  Spongebob counters with, "But Squidward, they're good for your soul!"?
+	  </words>
+	  <opt id="a">He says he doesn't care, and refuses to ever try one.</opt>
+	  <opt id="b">He leaves work for the day.</opt>
+	  <opt id="c">He punches Spongebob in the face.</opt>
+	  <opt id="d">He says that he has no soul.</opt>
+	</quest>
+	
+	<quest id="11" ans="b" img="spongebob12.jpg"> 
+	  <words>What does the guard of the Salty Spitoon greet customers with?</words>
+	  <opt id="a">Welcome to the Salty Spitoon, if you're a wuss, then split.</opt>
+	  <opt id="b">Welcome to the Salty Spitoon, how tough are ya'?</opt>
+	  <opt id="c">Welcome to the Salty Spitoon, how strong are ya'?</opt>
+	  <opt id="d">Welcome to the Salty Spitoon, what did you have for breakfast?</opt>
+	</quest>
+	
+	<quest id="12" ans="c" img="spongebob13.jpg"> 
+	  <words>What are the three signs of the Hash-Slinging Slasher?</words>
+	  <opt id="a">A power outage, a ringing phone, and the wailing of a mysterious person.</opt>
+	  <opt id="b">A small earthquake, the smell of rotten eggs, A bus dropping off a 
+	   passenger with a spatula for a hand.
+	   </opt>
+	  <opt id="c">Flickering lights, a ringing phone, and a bus dropping off a passenger 
+	   with a spatula for a hand.
+	   </opt>
+	  <opt id="d">Flickering lights, a ringing phone, and the walls oozing green slime.</opt>
+	</quest>
+	
+	<quest id="13" ans="a" img="spongebob14.jpg"> 
+	  <words>How can you protect against both a sea bear and sea rhinoceros?</words>
+	  <opt id="a">By drawing a sea bear circle and wearing anti-rhinoceros underwear.</opt>
+	  <opt id="b">By wearing your hat in a goofy fashion and imitating the sound of
+	   a sea bear attack.
+	   </opt>
+	  <opt id="c">You can't, they won't stop chasing you until they know you've perished.</opt>
+	  <opt id="d">By drawing a sea rhinoceros circle and dancing in a hoop skirt.</opt>
+	</quest>
+	
+	<quest id="14" ans="d" img="spongebob15.jpg"> 
+	  <words>What color Jellyfish does Spongebob call "Friend" (formerly "No-name")?</words>
+	  <opt id="a">Magenta</opt>
+	  <opt id="b">Purple</opt>
+	  <opt id="c">Green</opt>
+	  <opt id="d">Blue</opt>
+	</quest>
+	
+	<quest id="15" ans="a" img="spongebob16.gif"> 
+	  <words>When Spongebob and Patrick camp out in the wilderness after stealing a balloon, what
+	   does Patrick claim his only food is?
+	   </words>
+	  <opt id="a">A Chocolate Bar</opt>
+	  <opt id="b">A Krabby Patty</opt>
+	  <opt id="c">A chocolate chip cookie</opt>
+	  <opt id="d">A cheese wheel</opt>
+	</quest>
+	
+	<quest id="16" ans="b" img="spongebob17.jpg"> 
+	  <words>Which one of these claims did Spongebob and Patrick tell a person who bought some
+	   of their chocolate bars?
+	   </words>
+	  <opt id="a">They will make you a rock star!</opt>
+	  <opt id="b">They will keep you from getting any uglier!</opt>
+	  <opt id="c">They will help you find valuable treasures!</opt>
+	  <opt id="d">They will let you read other people's minds!</opt>
+	</quest>
+	
+	<quest id="17" ans="c" img="spongebob18.jpg"> 
+	  <words>What are the names of the people who visited Patrick, thinking that they were actually
+	   his parents?
+	   </words>
+	  <opt id="a">Harry and Susan</opt>
+	  <opt id="b">Peter and Patricia</opt>
+	  <opt id="c">Marty and Janet</opt>
+	  <opt id="d">Charlie and Beth</opt>
+	</quest>	
+</Questions>
